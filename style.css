@@ -1,0 +1,15 @@
+h1{color:LightGray; font-style:Verdana font-size:20pt; font-family:Comic Sans MS; letter-spacing:2pt}
+body {background-image: url(BLOG_code.jpg); no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+color: Green;
+
+
+}
+p{
+	color:white;
+}
+
