@@ -1,3 +1,4 @@
+// Created by Gregory Petromichelakis
 var pos = 0, test, test_status, question, choice, choices, chA, chB, chC, correct = 0;
 
 
